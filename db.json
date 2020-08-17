@@ -1,0 +1,54 @@
+{
+  "listings": [
+    {
+      "id": 1,
+      "image": "https://lid.zoocdn.com/354/255/ac79b5b3e5f2f2b92e2bbccb5a0e18131cdef94a.jpg",
+      "numberOfBedrooms": 2,
+      "address": "Thomas Hill, Canterbury",
+      "postcode": "CT2 1AA",
+      "description": "Unique opportunity to acquire this stunning home.",
+      "askingPrice": 495000,
+      "expired": true
+    },
+    {
+      "id": 2,
+      "image": "https://lid.zoocdn.com/354/255/a1be599e6d38602326df37c38481c1a2cb50472e.jpg",
+      "numberOfBedrooms": 3,
+      "address": "Ben Road, Canterbury",
+      "postcode": "CT2 1BB",
+      "description": "Unique opportunity to acquire this really stunning home.",
+      "askingPrice": 650000,
+      "expired": true
+    },
+    {
+      "id": 3,
+      "image": "https://lid.zoocdn.com/354/255/fa2b62a1d04de52f26cc2ebaf2ee43a22426020d.jpg",
+      "numberOfBedrooms": 1,
+      "address": "James Street, Canterbury",
+      "postcode": "CT2 1CC",
+      "description": "Unique opportunity to acquire this smaller home.",
+      "askingPrice": 295000,
+      "expired": false
+    },
+    {
+      "id": 4,
+      "image": "https://lid.zoocdn.com/354/255/bcc49da5d27dc76ad43c865159755c0b9decc7c5.jpg",
+      "numberOfBedrooms": 9,
+      "address": "Rich Drive, Canterbury",
+      "postcode": "CT2 1DD",
+      "description": "Unique opportunity to acquire too many rooms.",
+      "askingPrice": 801000,
+      "expired": false
+    },
+    {
+      "id": 5,
+      "image": "https://lid.zoocdn.com/354/255/b6b7fa1d8f9ed60d9085ef452395eb6f46a98239.jpg",
+      "numberOfBedrooms": 2,
+      "address": "Other Road, Canterbury",
+      "postcode": "CT2 1EE",
+      "description": "Unique opportunity to acquire another house.",
+      "askingPrice": 250000,
+      "expired": false
+    }
+  ]
+}
